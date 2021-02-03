@@ -25,3 +25,4 @@ Use the `app.rb` file to:
 * Find the company named "Beta"
 * Find the largest company
 * Sort the companies from largest to smallest
+
